@@ -1,0 +1,9 @@
+.nav{
+    display: flex;
+    font-weight: bold;
+    height: 50px;
+    flex-direction: row;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
